@@ -75,7 +75,7 @@ public class Main {
             case 9:
             case 10:
             case 11:
-                System.out.println("Это осень");
+                System.out.println("Это осень!");
             default:
 
         }
